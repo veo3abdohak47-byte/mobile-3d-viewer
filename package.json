@@ -1,0 +1,20 @@
+{
+  "name": "mobile-3d-viewer",
+  "version": "1.0.0",
+  "description": "Mobile 3D viewer app with basic and advanced viewing modes",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint src"
+  },
+  "dependencies": {
+    "three": "^r128",
+    "vite": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "eslint": "^8.0.0"
+  }
+}
